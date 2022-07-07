@@ -1,6 +1,6 @@
 # Automated-PL
  
- Automated P&L is an excel workbook used to create automated profit and loss statement based on user-inputted transactional data. 
+ Automated P&L is an excel workbook used to create automated profit and loss statements based on user-inputted transactional data. 
 
  * View the project [here](https://nicholaslukas.com/automated-pl)
 
