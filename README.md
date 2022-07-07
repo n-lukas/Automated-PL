@@ -4,7 +4,7 @@
 
  * View the project [here](https://nicholaslukas.com/automated-pl)
 
-![Example](<https://cdn.myportfolio.com/e202125a-e160-4e2d-abee-94d517afa19f/6f7a096a-6977-4050-81e8-3f0430b20f1c_rw_1920.gif?h=db83ae92199d808f9a3aff6d500e184b>)
+![Main Photo](https://user-images.githubusercontent.com/108498577/177677211-01cc7890-74c8-4e85-b0f0-ea0fd1d0a7eb.gif)
 
 
 ## Purpose
